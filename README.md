@@ -1,4 +1,5 @@
-# CryptoVision is a React application that uses the coinranking and newsdata APIs to provide users with a comprehensive overview of the cryptocurrency market. The application includes the following features:
+# CryptoVision
+ ## CryptoVisionis a React application that uses the coinranking and newsdata APIs to provide users with a comprehensive overview of the cryptocurrency market. The application includes the following features:
 
   ### News: A real-time feed of cryptocurrency news from a variety of sources.
   ### Market data: A detailed overview of the cryptocurrency market, including prices, volumes, and market caps.
